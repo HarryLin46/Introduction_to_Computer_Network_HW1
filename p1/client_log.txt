@@ -1,0 +1,26 @@
+The Client is running..
+Connect to 127.0.0.1, using port number 2025
+Received the message from server: Please input a question for calculation
+Question: 1 + 1
+
+Answer: helllo
+Do you wish to continue? (Y/N)Please input a question for calculation
+Y
+Received the message from server: hellloDo you wish to continue? (Y/N)Please input a question for calculation
+Question: 2 - 4
+
+Answer: helllo
+Do you wish to continue? (Y/N)Please input a question for calculation
+Y
+Received the message from server: hellloDo you wish to continue? (Y/N)Please input a question for calculation
+Question: 3 * 5
+
+Answer: helllo
+Do you wish to continue? (Y/N)Please input a question for calculation
+Y
+Received the message from server: hellloDo you wish to continue? (Y/N)Please input a question for calculation
+Question: 4 / 2
+
+Answer: helllo
+Do you wish to continue? (Y/N)Please input a question for calculation
+N
