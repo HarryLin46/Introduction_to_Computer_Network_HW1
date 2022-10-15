@@ -1,1 +1,10 @@
-http://192.168.0.105:80/index.html
+p2:
+http://127.0.0.1:80/index.html
+
+
+p3:
+proxy:
+http://127.0.0.1:2025/index.html
+
+web server:
+http://127.0.0.1:80/index.html
