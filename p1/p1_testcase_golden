@@ -19,29 +19,4 @@ Received the message from server: Please input a question for calculation
 Question: 4 / 2
 Answer: 2.0
 Do you wish to continue? (Y/N)
-Y
-Received the message from server: Please input a question for calculation
-Question: 3 ^ 4
-Answer: 81.0
-Do you wish to continue? (Y/N)
-Y
-Received the message from server: Please input a question for calculation
-Question: 16 div 6
-Answer: 2.0
-Do you wish to continue? (Y/N)
-Y
-Received the message from server: Please input a question for calculation
-Question: 16 mod 6
-Answer: 4.0
-Do you wish to continue? (Y/N)
-Y
-Received the message from server: Please input a question for calculation
-Question: (1,2,3) dot (2,1,2)
-Answer: 10.0
-Do you wish to continue? (Y/N)
-Y
-Received the message from server: Please input a question for calculation
-Question: (1,2,3) dis (2,4,5)
-Answer: 3.0
-Do you wish to continue? (Y/N)
 N
